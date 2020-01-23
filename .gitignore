@@ -107,3 +107,6 @@ Temporary Items
 .pio
 
 # End of https://www.gitignore.io/api/osx,linux,eagle,platformio
+/code/multiblink/build/
+/code/multiblink/dist/
+/code/multiblink/nbproject/
